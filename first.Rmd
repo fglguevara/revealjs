@@ -16,5 +16,6 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 data(cars)
 summary(cars)
-plot(cars)
+3+3
+plot(cars, col="red")
 ```
